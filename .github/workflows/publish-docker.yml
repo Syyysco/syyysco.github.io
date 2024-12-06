@@ -16,7 +16,7 @@ jobs:
               uses: docker/login-action@v2
               with:
                   registry: ghcr.io
-                  username: "Sysco"
+                  username: "Syyysco"
                   password: ${{ secrets.CONTAINER_REGISTRY }}
 
             - name: Build 🔧 and Push 📦 the Docker image of my personal portfolio on Github Container Registry
