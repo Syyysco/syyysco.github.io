@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/915ae92b-ded4-4196-90f3-4c1c13ded55c/JMH%20Typewriter-Bold.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240918%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240918T165923Z&X-Amz-Expires=86400&X-Amz-Signature=211f5a500f7c950e262c4a3b152ede7b1e273cbbab4f87c79b7c71e2290025e1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22JMH%20Typewriter-Bold.svg%22&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject
