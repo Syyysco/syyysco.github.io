@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/ab9c15e8-e3b3-4aae-be67-09a374cbff71/Pixelogist.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240918%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240918T172704Z&X-Amz-Expires=86400&X-Amz-Signature=ffefa2582b2d4af9bfad689b366e044f0242f64994810952c31e24053ce38a78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Pixelogist.woff%22&response-content-type=font%2Fwoff&x-id=GetObject
