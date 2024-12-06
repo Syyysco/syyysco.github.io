@@ -1,5 +1,4 @@
-{
-	"$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+xccc🌟 Successfully published via angular-cli-ghpages! Have a nice day!locallocallocallocalma": "./node_modules/@angular/cli/lib/config/schema.json",
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
@@ -21,7 +20,6 @@
 						"index": "src/index.html",
 						"main": "src/main.ts",
 						"polyfills": "src/polyfills.ts",
-                                                "baseHref": "/",
 						"tsConfig": "tsconfig.app.json",
 						"assets": [
 							"src/favicon.ico",
@@ -57,8 +55,6 @@
 					},
 					"configurations": {
 						"production": {
-                                                        "outputHashing": "all",
-                                                        "baseHref": "/",
 							"budgets": [
 								{
 									"type": "initial",
@@ -85,8 +81,7 @@
 							"vendorChunk": true,
 							"extractLicenses": false,
 							"sourceMap": true,
-							"namedChunks": true,
-                                                        "baseHref": "/"
+							"namedChunks": true
 						}
 					},
 					"defaultConfiguration": "production"
