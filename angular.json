@@ -21,7 +21,6 @@
 						"index": "src/index.html",
 						"main": "src/main.ts",
 						"polyfills": "src/polyfills.ts",
-                                                "baseHref": "/",
 						"tsConfig": "tsconfig.app.json",
 						"assets": [
 							"src/favicon.ico",
@@ -57,8 +56,6 @@
 					},
 					"configurations": {
 						"production": {
-                                                        "outputHashing": "all",
-                                                        "baseHref": "/",
 							"budgets": [
 								{
 									"type": "initial",
@@ -85,8 +82,7 @@
 							"vendorChunk": true,
 							"extractLicenses": false,
 							"sourceMap": true,
-							"namedChunks": true,
-                                                        "baseHref": "/"
+							"namedChunks": true
 						}
 					},
 					"defaultConfiguration": "production"
