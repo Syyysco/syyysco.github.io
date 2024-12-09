@@ -335,6 +335,11 @@ docker --version
 |   |       BlackOpsOne.ttf
 |   |       BlackOpsOne.woff
 |   |       BlackOpsOne.woff2
+|   |   	Pixelogist.eot
+|   |   	Pixelogist.svg
+|   |   	Pixelogist.ttf
+|   |   	Pixelogist.woff
+|   |   	Pixelogist.woff2
 |   |       fa-brands-400.eot
 |   |       fa-brands-400.svg
 |   |       fa-brands-400.ttf
